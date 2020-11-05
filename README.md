@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 *Top languages does not indicate my skill level or something like that, it is a github metric of which languages i have the most code on github:*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takint&layout=compact&show_icons=true&theme=vue)](https://github.com/takint/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takint&layout=compact&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/takint/)
 
 
 **My Stats:**  
 
-[![Jim's github stats](https://github-readme-stats.vercel.app/api?username=takint&show_icons=true&theme=vue)](https://github.com/takint/)
+[![Jim's github stats](https://github-readme-stats.vercel.app/api?username=takint&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/takint/)
 
