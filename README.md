@@ -56,5 +56,6 @@ Here are some ideas to get you started:
 
 [![Jim's github stats](https://jim-github-stats.vercel.app/api?username=takint&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/takint/)
 
+:computer: My linkedin profile: https://www.linkedin.com/in/jimle15/
 
 📫 How to reach me? Here is my email: taki.lnt@gmail.com
