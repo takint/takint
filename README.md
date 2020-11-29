@@ -46,5 +46,4 @@ I'm a software developer from Vancouver, Canada.
 :mailbox: How to reach me? Here is my email: taki.lnt@gmail.com
 
 💬 Quote of the day:  
-
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?layout=socrates)
