@@ -48,3 +48,6 @@ I'm a software developer from Vancouver, Canada.
 
 🌊 Quote of the day:  
 ![Quote](https://github-readme-quotes.herokuapp.com/quote)
+
+I'm kinda a machine that covert :coffee: coffee => :computer: code 
+
